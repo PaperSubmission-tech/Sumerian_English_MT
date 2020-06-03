@@ -1,0 +1,2 @@
+model_checkpoint_path: "model.su-en-140000"
+all_model_checkpoint_paths: "model.su-en-140000"
