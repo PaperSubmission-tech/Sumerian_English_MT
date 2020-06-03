@@ -1,4 +1,4 @@
-# Sumerian-ENglish-Machine-Translation
+# Sumerian-English-Machine-Translation
 ---
 ##### The Project is completed by implementing Machine Translation in two ways :
 1. NMT Through Transformers

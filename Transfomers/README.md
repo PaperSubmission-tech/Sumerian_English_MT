@@ -1,4 +1,3 @@
-# ACL 2020 Submission
 ## Abstract
 The Sumerian cuneiform writing script was invented more than 5,000 years ago and represents one of the oldest in history. In this paper, we present the first attempt of its kind to automatically translate between Sumerian and English text fragments. We release high-quality corpora for training and evaluation and report results on experiments with two different encoder-decoder architectures for translation. Our proposed methodology, in particular the attention visualizations obtained from the translation model, enable expert archaeologists to automate costly and time-consuming manual translations and assist them in better determining the meaning of a piece of Sumerian text.
 
