@@ -1,6 +1,8 @@
-# Code for Sumerian-English MT Project Implementation
+# Towards the First Machine Translation System for Sumerian Transliterations
 
-Please move to the respective implementation folder
-1. PBSMT
-2. Transfer Learning
-3. The transformer folder contains code for the implementation of the LSTM model as well as Transformers.
+Dataset, implementation and training routines for the anonymous publication:
+
+Please navigate to the respective implementation:
+1. [PBSMT](https://github.com/PaperSubmission-tech/Sumerian_English_MT/tree/master/PBSMT)
+2. [Transfer Learning](https://github.com/PaperSubmission-tech/Sumerian_English_MT/tree/master/Transfer_Learning)
+3. [For Transformer & LSTM models](https://github.com/PaperSubmission-tech/Sumerian_English_MT/tree/master/Transfomers)
